@@ -1,0 +1,2 @@
+# fan_check
+NoneBot2平台QQ频道适配器的B站UP粉丝量监测插件
